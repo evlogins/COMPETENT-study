@@ -1,0 +1,10 @@
+Reviewer 1: The authors have submitted a relatively small retrospective review evaluating the effects of IV induction of anesthesia versus inhalational induction. The authors more accurately could title the manuscript a comparison of etomidate to sevoflurane for induction. There are several difficulties I have with the manuscript.
+1. The study population is small
+2. The authors discuss the fact that the patients were "high risk". However, I would argue that mitral insufficiency is one of the easiest valvular lesions to manage and the risks of a significant adverse event are relatively low compared to other cardiac surgical populations.
+3. The review is retrospective so one would guess that there was an inherent bias on behalf of the anesthesia team as to which patients received which induction method.
+4. The results show that slightly less vasoactive medication was needed to counteract the effects of induction in the inhalation group. But I do question the clinical relevancy of this finding.
+
+in short, with respect to the authors efforts here, I find this paper much to small and uncontrolled to draw and meaningful conclusion other than both forms of induction are safe. And I believe the anesthesia community already knows this.
+
+
+Reviewer 2: This is an interesting paper but being retrospective, there is not enough documentation to adequately compare the 2 methods. The charts were paper charts, which miss details. There was no mention of any difficulties with the inhalation induction, size of the patient, the presence of sleep apnea or how long it took to induce these patients. The doses of etomidate were not standardized and the dose of sevoflurane was less than 1 MAC. The duration of action of etomidate is 5 minutes so the hypotension and points 3 and 4 can be due to the remifentanil, which can cause bradycardia in patients who are dependent on their heart rate for blood pressure.

@@ -1,0 +1,19 @@
+Dear Dr Adrian Stephan,
+
+Regarding Research Article AAS-24-0852 "Comparison between inhalation and intravenous induction of anaesthesia during interventional mitral valve repair (COMPETENT)".
+
+Thank you for submitting your manuscript to Acta Anaesthesiologica Scandinavica. I have read it carefully, and it has undergone a preliminary internal assessment within the Editorial Board. Unfortunately, it is not going to receive the priority needed to go further in the review process in our journal. Issues that came up include the following.
+
+The study question is apparently if etomidate or sevoflurane is superior for induction of this type of surgical case, and superiority in terms of circulatory effects during induction.
+
+The title is misleading since there were 2 specific drugs in the study and not generally drug classes
+
+Study method: retrospective inclusion, uncontrolled treatments, and apparently potent opioids were given at the same time. Outcomes collected from the clinical administrative database. Small single center cohort. Main outcome SBP less than 90 and vasopressor administration.
+
+Where the treatments are not contolled by protocol or by a prospective treatment plan, it is difficult to compared 2 different induction drugs. The choices made for comparisons (blood pressures at different time intervals) are not clearly motivated.
+
+For this type of drug study question, prospectively controlled treatments are needed, along with randomized allocation and blinding to the different treatments in order to manage confounding and bias.
+
+
+
+We wish you good luck as you pursue publication in another journal.
